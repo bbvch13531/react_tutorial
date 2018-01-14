@@ -1,2 +1,2 @@
 # react_tutorial
-tic-tac-to
+tic-tac-toe
